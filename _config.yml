@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 prose:
   ignore:
-    - .github/
+    - /.github
     - .gitignore
     - Gemfile
     - Gemfile.lock
