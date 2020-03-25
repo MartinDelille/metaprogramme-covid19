@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+prose:
+  ignore:
+    - .github/
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - Makefile
+    - _config.yml
