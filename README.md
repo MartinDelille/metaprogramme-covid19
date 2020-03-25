@@ -5,15 +5,15 @@
 ### Objectif
 
 Ce projet a pour but le développement d'un métaprogramme de lutte contre le Corona Virus en utilisant:
-- L'information issue de source scientifique fiable
-- La pédagogie afin de le faire comprendre par le plus grand nombre
-- Le divertissement afin de le rendre attirant et viral
+- L'information issue de sources scientifiques fiables.
+- La pédagogie afin de le faire comprendre par le plus grand nombre.
+- Le divertissement afin de le rendre attirant et viral.
 
 Nous définissons _métaprogramme_ un programme d'information pouvant se consommer avec les yeux et/ou les oreilles de plusieurs façon différentes. C'est à dire qu'une fois produit, le _métaprogramme_ pourra aussi bien se consommer:
 
 - Comme une vidéo classique (vidéo + audio)
 - Comme un podcast (juste audio)
-- Comme une vidéo sourd et malentendant
+- Comme une vidéo sourd et malentendant (juste vidéo)
 
 Afin de permettre au plus grand nombre de consulter ce _métaprogramme_, tous les éléments linguistiques seront traduits dans un maximum de langues.
 
